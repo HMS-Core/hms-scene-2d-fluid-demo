@@ -1,5 +1,5 @@
 # HMS SceneKit 2D-Fluid Demo
-English | [中文](README-zh.md)
+English | [中文](README_ZH.md)
 ## Table of Contents
 
 * [Introduction](#introduction)
