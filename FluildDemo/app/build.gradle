@@ -38,8 +38,8 @@ android {
 }
 
 dependencies {
-    implementation 'com.huawei.scenekit:scenekit-fluid-extension:6.0.0.300'
-    implementation 'com.huawei.scenekit:scenekit-fluid-foundation:6.0.0.300'
+    implementation 'com.huawei.scenekit:scenekit-fluid-extension:6.2.0.300'
+    implementation 'com.huawei.scenekit:scenekit-fluid-foundation:6.2.0.300'
 
     implementation 'androidx.appcompat:appcompat:1.2.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
