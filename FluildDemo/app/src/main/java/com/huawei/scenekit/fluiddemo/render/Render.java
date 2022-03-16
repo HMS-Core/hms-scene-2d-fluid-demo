@@ -239,6 +239,7 @@ public class Render implements GLSurfaceView.Renderer {
         worldManager.acquire();
         try {
             worldManager.deleteWorld();
+            border = null;
             worldManager.init();
         } finally {
             worldManager.release();
